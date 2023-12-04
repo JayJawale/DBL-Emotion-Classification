@@ -2,7 +2,7 @@
 Emotion Classification from text conversations using Deep Broad Learning
 
 # Introduction
-Existing emotion classification methods such as Bi-LSTMs, RNNs and GRUs adopted to grasp the contextual information in a conversation neglect the relationship between the utterance and the speaker. Thus, the Deep Broad Learning model integrates this information using Broad Learning System to predict better emotional classifications. 
+Existing emotion classification methods such as Bi-LSTMs, RNNs and GRUs adopted to grasp the contextual information in a conversation neglect the relationship between the utterance and the speaker. Thus, the Deep Broad Learning model integrates this information using Broad Learning System to better predict emotional classifications. 
 
 It uses the [MELD](https://affective-meld.github.io/) dataset. 
 
